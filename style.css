@@ -43,6 +43,12 @@ h4 {
     margin: 20px 0 10px;
 }
 
+h5 {
+    color: #4a90e2;
+    font-size: 1.6rem;
+    margin: 20px 0 10px;
+}
+
 p {
     line-height: 1.6;
     margin: 10px 20px;
