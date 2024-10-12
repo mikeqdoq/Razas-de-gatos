@@ -21,30 +21,48 @@ header {
 h1 {
     color: #333;
     text-align: center;
-    font-size: 2.5rem;
-    margin: 20px 0;
+    font-size: 2rem;
+    margin: 20px 0 10px;
 }
 
 h2 {
     color: #4a90e2;
+    text-align: center;
     font-size: 2rem;
     margin: 20px 0 10px;
 }
 
 h3 {
     color: #4a90e2;
+    text-align: center;
     font-size: 1.8rem;
     margin: 20px 0 10px;
 }
 
 h4 {
     color: #4a90e2;
+    text-align: center;
     font-size: 1.6rem;
     margin: 20px 0 10px;
 }
 
 h5 {
     color: #4a90e2;
+    text-align: center;
+    font-size: 1.6rem;
+    margin: 20px 0 10px;
+}
+
+h6 {
+    color: #4a90e2;
+    text-align: center;
+    font-size: 1.6rem;
+    margin: 20px 0 10px;
+}
+
+h6 {
+    color: #4a90e2;
+    text-align: center;
     font-size: 1.6rem;
     margin: 20px 0 10px;
 }
@@ -53,6 +71,7 @@ p {
     line-height: 1.6;
     margin: 10px 20px;
     font-size: 1.1rem;
+    color: red
 }
 
 /* Estilo para las imágenes */
@@ -107,7 +126,40 @@ footer a:hover {
         font-size: 1.4rem;
     }
 
+    h5 {
+        font-size: 1.4rem;
+    }
+
+    h6 {
+        font-size: 1.4rem;
+    }
+
     p {
         font-size: 1rem;
     }
 }
+
+#mi-id {
+font-size: 48px;
+}
+
+button {
+
+    background-color: grey; /* Color inicial del botón */
+
+    color: white;
+
+    padding: 10px 20px;
+
+    border: none;
+
+    cursor: pointer;
+
+}
+
+button:hover {
+
+    background-color: blue; /* Color del botón cuando el ratón pasa por encima */
+
+}
+
